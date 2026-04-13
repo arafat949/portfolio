@@ -14,24 +14,7 @@ A premium personal portfolio website for MD Arafat (Android & WordPress Develope
 - Fully responsive (mobile-friendly)
 - Vercel-ready static deployment
 
-## 🚀 Deploy on Vercel (3 steps)
 
-### Method 1 — Vercel CLI (Recommended)
-```bash
-npm i -g vercel
-cd mdarafat-portfolio
-vercel
-```
-Follow the prompts → your site will be live at `mdarafat.vercel.app`
-
-### Method 2 — GitHub + Vercel Dashboard
-1. Push this folder to a GitHub repo
-2. Go to [vercel.com](https://vercel.com) → Import Project
-3. Select your repo → Deploy ✅
-
-### Method 3 — Drag & Drop
-1. Go to [vercel.com/new](https://vercel.com/new)
-2. Drag the entire `mdarafat-portfolio` folder → Deploy ✅
 
 
 
